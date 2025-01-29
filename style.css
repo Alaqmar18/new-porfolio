@@ -1,0 +1,40 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: verdana,geneva,tahoma,sans-serif;
+    
+}
+body{
+    background: #101010;
+}
+nav{
+    text-align: center;
+    background: orange;
+    color:white;
+    padding: 30px;
+}
+nav ul{
+    display: inline-block;
+    list-style: none;
+}
+nav ul li{
+    display: inline;
+    margin: 0 10px;
+}
+section{
+    background: white;
+    padding: 10px 30px;
+    margin:20px;
+    border-radius:20px;
+}
+footer{
+    background: #101010;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+    
+
+
+    
